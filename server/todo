@@ -1,0 +1,33 @@
+
+progress
+improvement
+
+
+=======================================
+
+conceptualizing the content using model
+flash card using model
+
+manual deck flashcard creation
+text extracting module
+file uploading mechanism
+downlaod qwen-2.5 model
+qwen-2.5 model finetuning
+API Endpoints required (CRUD)
+
+=======================
+Database design
+Migrations
+Set up postgres database
+write endpoints
+Start App
+
+
+
+QnA Bot, Create FillUp model  (Refer endpoints/upload.py)
+
+UserName: harry 
+Password: harrypass
+
+Ignoring Fill ups for now
+

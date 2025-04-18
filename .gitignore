@@ -1,0 +1,20 @@
+# React - client
+client/node_modules/
+client/build/
+client/.env
+
+# Python - server
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+server/.env
+server/venv/
+server/env/
+
+# System files
+.DS_Store
+
+# IDEs and editors
+.vscode/
+.idea/

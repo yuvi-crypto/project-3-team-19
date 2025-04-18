@@ -1,0 +1,4 @@
+
+Change pytesseract path in TextExtract module at /home/harry/Desktop/ventures/mind_mastery/fastapi-backend/app/modules/text_extract.py line no. 22 in def __init__()
+
+

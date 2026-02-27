@@ -1,4 +1,3 @@
-@@ -1,77 +0,0 @@
 # 🔥 Full Stack Project: React + FastAPI
 
 This is a full-stack web application combining:
